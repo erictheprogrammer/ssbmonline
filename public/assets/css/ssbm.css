@@ -1,0 +1,17 @@
+body
+{
+background-image:url('../img/ssbm.png');
+  background-color: #fff;
+  background-size:100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: fixed;
+  color: #444;
+} 
+
+.maintextarea
+{
+	background-color: #000;
+	color: #fff;
+	padding:20px;
+}
